@@ -1,11 +1,15 @@
+<div id="header" align="center">
 <img src="https://github.com/user-attachments/assets/2bdea069-4552-42b8-add0-70d2157052c9" alt="Fomenko Daniil | Front-End developer">
+  <h1>
+  👋 Hi, I'm Daniil!
+  </h1>
+</div>
 
-# 👋 Hi, I'm Daniil!
+🚀 I am constantly improving my skills<br/>
+🎯 Currently learning React and its ecosystem<br/>
+💭 I do pet projects to improve practical skills<br/>
 
-### About Me :
-Learning HTML in the university, I became very interested in this topic and decided to studyit in depth. Without hesitation I signed up for a course on HTML/CSS in the computer school.After completing the course, I realized that I wanted to plunge headlong into study and Ihave gone on to my next course on JavaScript. Now, I can say with certainty that Front-Endis the main thing which I want to engage in and I am developing in it every day.
-
-## 💻 Tech Stack
+## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,31 +25,42 @@ Learning HTML in the university, I became very interested in this topic and deci
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+## GitHub Stats
+<table><tr>
+  <td valign="middle" width="33%">
+    <div align="center">  
+      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=danilfomchik&show_icons=true&theme=gotham&card_width=500" alt="Viktor Svertoka github stats" /></a>
+    </div>
+  </td>
+  <td valign="middle" width="33%">
+    <div align="center">  
+      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" /></a>
+    </div>
+  </td>
+</tr></table>  
+
+<!-- ## 💼 </> Projects -->
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/danilfomchik" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/danilfomchik" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/f0mchik" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
+</div> 
+
+<br>
+
 <div align="center">
   <a href="https://www.codewars.com/users/danilfomchik"><img src="https://www.codewars.com/users/danilfomchik/badges/small">
 </div>
 
-## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td style='border:none;'>
-    <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danilfomchik&show_icons=true&theme=gotham&card_width=450" alt="Viktor Svertoka github stats" /></a>
-    </td>
-    <td style='border:none;'>
-    <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=450" /></a>
-    </td>
-  </tr>
-</table>
-
-## 💼 </> Projects
 <!--
-![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilfomchik&show_icons=true&theme=gotham&card_width=450)<br>
-![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=450)
-
-
-
-**danilfomchik/danilfomchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
