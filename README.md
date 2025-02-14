@@ -1,13 +1,17 @@
 <div id="header" align="center">
-<img src="https://github.com/user-attachments/assets/2bdea069-4552-42b8-add0-70d2157052c9" alt="Fomenko Daniil | Front-End developer">
+  <img src="https://github.com/user-attachments/assets/2bdea069-4552-42b8-add0-70d2157052c9" alt="Fomenko Daniil | Front-End developer">
   <h1>
-  👋 Hi, I'm Daniil!
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand"/> My name is Daniil Fomenko
   </h1>
 </div>
 
-🚀 I am constantly improving my skills<br/>
-🎯 Currently learning React and its ecosystem<br/>
-💭 I do pet projects to improve practical skills<br/>
+Learning HTML in the university, I became very interested in this topic and decided to studyit in depth. Without hesitation I signed up for a course on HTML/CSS in the computer school.After completing the course, I realized that I wanted to plunge headlong into study and Ihave gone on to my next course on JavaScript. Now, I can say with certainty that Front-Endis the main thing which I want to engage in and I am developing in it every day.
+
+* 🌍  I'm based in Ukraine
+* ✉️  You can contact me at [danil.fomchik@gmail.com](mailto:danil.fomchik@gmail.com)
+* 🚀  I am constantly improving my skills
+* 🧠  I'm learning React and its ecosystem
+* ⚡  I do pet projects to improve practical skills
 
 ## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -35,7 +39,8 @@
   </td>
   <td valign="middle" width="33%">
     <div align="center">  
-      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" alt="Daniil Fomenko github stats" /></a>
+<!--       <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" alt="Daniil Fomenko github stats" /></a> -->
+      <a href="https://github.com/danilfomchik" align="left"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilfomchik&langs_count=8&layout=compact&theme=gotham&hide_border=false&locale=en&card_width=500" alt="Top Languages" /></a>
     </div>
   </td>
 </tr></table>  
