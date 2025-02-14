@@ -30,12 +30,12 @@
 <table><tr>
   <td valign="middle" width="33%">
     <div align="center">  
-      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=danilfomchik&show_icons=true&theme=gotham&card_width=500" alt="Viktor Svertoka github stats" /></a>
+      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=danilfomchik&show_icons=true&theme=gotham&card_width=500" alt="Daniil Fomenko github stats" /></a>
     </div>
   </td>
   <td valign="middle" width="33%">
     <div align="center">  
-      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" /></a>
+      <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" alt="Daniil Fomenko github stats" /></a>
     </div>
   </td>
 </tr></table>  
@@ -45,20 +45,20 @@
 ## Connect with me  
 <div align="center">
   <a href="https://github.com/danilfomchik" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/danilfomchik" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.instagram.com/f0mchik" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>  
 </div> 
 
 <br>
 
 <div align="center">
-  <a href="https://www.codewars.com/users/danilfomchik"><img src="https://www.codewars.com/users/danilfomchik/badges/small">
+  <a href="https://www.codewars.com/users/danilfomchik"><img src="https://www.codewars.com/users/danilfomchik/badges/small" alt="Daniil Fomenko codewars profile">
 </div>
 
 <!--
