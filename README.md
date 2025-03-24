@@ -13,7 +13,19 @@ Learning HTML in the university, I became very interested in this topic and deci
 * 🧠  I'm learning React and its ecosystem
 * ⚡  I do pet projects to improve practical skills
 
-## Tech Stack
+## 🔥 My projects
+
+<details>
+<summary>🚀 Kanban Board</summary>
+<br>
+    
+  🛠 **Stack:** React, TypeScript, Redux Toolkit, Tailwind CSS, dnd kit  
+  📖 **Description:** A simple and intuitive Kanban Board application built with modern web technologies to help manage tasks efficiently.  
+  🔗 **Demo:** [live-demo-link](https://kanban-board-lovat-omega.vercel.app/)  
+  📂 **Repository:** [GitHub](https://github.com/danilfomchik/Kanban-board)  
+</details>
+
+## 🛠️ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +42,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
+## 🚀 GitHub Stats
 <table><tr>
   <td valign="middle" width="33%">
     <div align="center">  
@@ -45,9 +57,7 @@ Learning HTML in the university, I became very interested in this topic and deci
   </td>
 </tr></table>  
 
-<!-- ## 💼 </> Projects -->
-
-## Connect with me  
+## 📫 Connect with me  
 <div align="center">
   <a href="https://github.com/danilfomchik" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
