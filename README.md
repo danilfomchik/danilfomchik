@@ -19,10 +19,12 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>🚀 Kanban Board</summary>
 <br>
     
+  ![Project Demo](https://github.com/danilfomchik/Kanban-board/blob/ee3f2b7a436b46227d18df60065e2124ea45f56b/public/project-demo.gif)
   🛠 **Stack:** React, TypeScript, Redux Toolkit, Tailwind CSS, dnd kit  
   📖 **Description:** A simple and intuitive Kanban Board application built with modern web technologies to help manage tasks efficiently.  
   🔗 **Demo:** [live-demo-link](https://kanban-board-lovat-omega.vercel.app/)  
   📂 **Repository:** [GitHub](https://github.com/danilfomchik/Kanban-board)  
+  
 </details>
 
 ## 🛠️ Tech Stack
