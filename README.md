@@ -39,6 +39,30 @@ Learning HTML in the university, I became very interested in this topic and deci
   
 </details>
 
+<details>
+<summary>⚡ Marvel App</summary>
+<br>
+    
+  <!-- ![Project Demo](https://github.com/danilfomchik/Rick-and-Morty-react-app/blob/328ca7f0843d016a86bb05a43362717435c4a41a/public/project_demo.gif) -->
+  🛠 **Stack:** React, React Router, Marvel API, SCSS  
+  📖 **Description:** This is a React-based application that allows users to explore Marvel characters, comics, and other related content using the [Marvel API](https://developer.marvel.com/).  
+  🔗 **Demo:** [live-demo-link](https://marvel-app-react-bay.vercel.app/)  
+  📂 **Repository:** [GitHub](https://github.com/danilfomchik/Marvel-app-react)  
+  
+</details>
+
+<details>
+<summary>🔭 My Portfolio Website</summary>
+<br>
+    
+  ![Project Demo](https://github.com/danilfomchik/My-portfolio-website/blob/16313a1634d7dafee0a2dbec2ad413b4736a0bde/public/project_demo.gif) 
+  🛠 **Stack:** HTML, SCSS, JavaScript, JSON-server, Gulp, GSAP   
+  📖 **Description:** This is my personal portfolio website, created to showcase my skills, projects, and achievements.  
+  🔗 **Demo:** [live-demo-link](https://my-portfolio-website-lovat.vercel.app/)  
+  📂 **Repository:** [GitHub](https://github.com/danilfomchik/My-portfolio-website)  
+  
+</details>
+
 ## 🛠️ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
