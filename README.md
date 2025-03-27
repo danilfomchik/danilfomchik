@@ -27,6 +27,18 @@ Learning HTML in the university, I became very interested in this topic and deci
   
 </details>
 
+<details>
+<summary>👽 Rick and Morty</summary>
+<br>
+    
+  ![Project Demo](https://github.com/danilfomchik/Rick-and-Morty-react-app/blob/328ca7f0843d016a86bb05a43362717435c4a41a/public/project_demo.gif)
+  🛠 **Stack:** React, React Router, GraphQL (Apollo Client), Rick and Morty API, SCSS  
+  📖 **Description:** A React application that displays information about characters from the **Rick and Morty** universe using the [Rick and Morty API](https://rickandmortyapi.com/).  
+  🔗 **Demo:** [live-demo-link](https://rick-and-morty-react-app-ruby.vercel.app/)  
+  📂 **Repository:** [GitHub](https://github.com/danilfomchik/Rick-and-Morty-react-app)  
+  
+</details>
+
 ## 🛠️ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
