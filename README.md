@@ -43,7 +43,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>⚡ Marvel App</summary>
 <br>
     
-  <!-- ![Project Demo](https://github.com/danilfomchik/Rick-and-Morty-react-app/blob/328ca7f0843d016a86bb05a43362717435c4a41a/public/project_demo.gif) -->
+  ![Project Demo](https://github.com/danilfomchik/Marvel-app-react/blob/de7d57c14de73c9e53b2791da78388f1b809f1b0/public/project_demo.gif)
   🛠 **Stack:** React, React Router, Marvel API, SCSS  
   📖 **Description:** This is a React-based application that allows users to explore Marvel characters, comics, and other related content using the [Marvel API](https://developer.marvel.com/).  
   🔗 **Demo:** [live-demo-link](https://marvel-app-react-bay.vercel.app/)  
