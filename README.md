@@ -19,7 +19,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>🚀 Kanban Board</summary>
 <br>
     
-  ![Project Demo](https://github.com/danilfomchik/Kanban-board/blob/ee3f2b7a436b46227d18df60065e2124ea45f56b/public/project-demo.gif)
+  <!--![Project Demo](https://github.com/danilfomchik/Kanban-board/blob/ee3f2b7a436b46227d18df60065e2124ea45f56b/public/project-demo.gif) -->
   🛠 **Stack:** React, TypeScript, Redux Toolkit, Tailwind CSS, dnd kit  
   📖 **Description:** A simple and intuitive Kanban Board application built with modern web technologies to help manage tasks efficiently.  
   🔗 **Demo:** [live-demo-link](https://kanban-board-lovat-omega.vercel.app/)  
@@ -31,7 +31,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>👽 Rick and Morty</summary>
 <br>
     
-  ![Project Demo](https://github.com/danilfomchik/Rick-and-Morty-react-app/blob/328ca7f0843d016a86bb05a43362717435c4a41a/public/project_demo.gif)
+  <!--![Project Demo](https://github.com/danilfomchik/Rick-and-Morty-react-app/blob/328ca7f0843d016a86bb05a43362717435c4a41a/public/project_demo.gif)-->
   🛠 **Stack:** React, React Router, GraphQL (Apollo Client), Rick and Morty API, SCSS  
   📖 **Description:** A React application that displays information about characters from the **Rick and Morty** universe using the [Rick and Morty API](https://rickandmortyapi.com/).  
   🔗 **Demo:** [live-demo-link](https://rick-and-morty-react-app-ruby.vercel.app/)  
@@ -43,7 +43,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>⚡ Marvel App</summary>
 <br>
     
-  ![Project Demo](https://github.com/danilfomchik/Marvel-app-react/blob/de7d57c14de73c9e53b2791da78388f1b809f1b0/public/project_demo.gif)
+  <!--![Project Demo](https://github.com/danilfomchik/Marvel-app-react/blob/de7d57c14de73c9e53b2791da78388f1b809f1b0/public/project_demo.gif)-->
   🛠 **Stack:** React, React Router, Marvel API, SCSS  
   📖 **Description:** This is a React-based application that allows users to explore Marvel characters, comics, and other related content using the [Marvel API](https://developer.marvel.com/).  
   🔗 **Demo:** [live-demo-link](https://marvel-app-react-bay.vercel.app/)  
@@ -55,7 +55,7 @@ Learning HTML in the university, I became very interested in this topic and deci
 <summary>🔭 My Portfolio Website</summary>
 <br>
     
-  ![Project Demo](https://github.com/danilfomchik/My-portfolio-website/blob/16313a1634d7dafee0a2dbec2ad413b4736a0bde/public/project_demo.gif) 
+  <!--![Project Demo](https://github.com/danilfomchik/My-portfolio-website/blob/16313a1634d7dafee0a2dbec2ad413b4736a0bde/public/project_demo.gif) -->
   🛠 **Stack:** HTML, SCSS, JavaScript, JSON-server, Gulp, GSAP   
   📖 **Description:** This is my personal portfolio website, created to showcase my skills, projects, and achievements.  
   🔗 **Demo:** [live-demo-link](https://my-portfolio-website-lovat.vercel.app/)  
@@ -89,7 +89,7 @@ Learning HTML in the university, I became very interested in this topic and deci
   </td>
   <td valign="middle" width="33%">
     <div align="center">  
-<!--       <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" alt="Daniil Fomenko github stats" /></a> -->
+       <a href="https://github.com/danilfomchik/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=gotham&hide_border=true&card_width=500" alt="Daniil Fomenko github stats" /></a> -->
       <a href="https://github.com/danilfomchik" align="left"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilfomchik&langs_count=8&layout=compact&theme=gotham&hide_border=false&locale=en&card_width=500" alt="Top Languages" /></a>
     </div>
   </td>
