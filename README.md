@@ -46,7 +46,7 @@ I am a dedicated Front-End Developer with expertise in React and Next.js, commit
   <!--![Project Demo](https://github.com/danilfomchik/Marvel-app-react/blob/de7d57c14de73c9e53b2791da78388f1b809f1b0/public/project_demo.gif)-->
   🛠 **Stack:** React, React Router, Marvel API, SCSS  
   📖 **Description:** This is a React-based application that allows users to explore Marvel characters, comics, and other related content using the [Marvel API](https://developer.marvel.com/).  
-  🔗 **Demo:** <a href="https://marvel-app-react-bay.vercel.app/" target="_blank">live-demo-link</a> 
+  🔗 **Demo:** <a href="https://marvel-app-react-bay.vercel.app/" target="_blank">live-demo-link</a>  
   📂 **Repository:** [GitHub](https://github.com/danilfomchik/Marvel-app-react)  
   
 </details>
@@ -58,7 +58,7 @@ I am a dedicated Front-End Developer with expertise in React and Next.js, commit
   <!--![Project Demo](https://github.com/danilfomchik/My-portfolio-website/blob/16313a1634d7dafee0a2dbec2ad413b4736a0bde/public/project_demo.gif) -->
   🛠 **Stack:** HTML, SCSS, JavaScript, JSON-server, Gulp, GSAP   
   📖 **Description:** This is my personal portfolio website, created to showcase my skills, projects, and achievements.  
-  🔗 **Demo:** <a href="https://my-portfolio-website-lovat.vercel.app/" target="_blank">live-demo-link</a>
+  🔗 **Demo:** <a href="https://my-portfolio-website-lovat.vercel.app/" target="_blank">live-demo-link</a>  
   📂 **Repository:** [GitHub](https://github.com/danilfomchik/My-portfolio-website)  
   
 </details>
