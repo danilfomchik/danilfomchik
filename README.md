@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-Learning HTML in the university, I became very interested in this topic and decided to studyit in depth. Without hesitation I signed up for a course on HTML/CSS in the computer school.After completing the course, I realized that I wanted to plunge headlong into study and Ihave gone on to my next course on JavaScript. Now, I can say with certainty that Front-Endis the main thing which I want to engage in and I am developing in it every day.
+I am a dedicated Front-End Developer with expertise in React and Next.js, committed to crafting scalable, maintainable, and high-performance web applications. My detail-oriented approach ensures that design accuracy and code quality are prioritized, resulting in interfaces that not only meet design specifications but also maintain reliability in production. I thrive in collaborative environments, actively participating in code reviews, planning, and estimation. By working closely with both designers and developers, I contribute to delivering well-structured and predictable solutions that enhance user experience and drive project success.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [danil.fomchik@gmail.com](mailto:danil.fomchik@gmail.com)
